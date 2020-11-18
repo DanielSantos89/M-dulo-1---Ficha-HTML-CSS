@@ -1,0 +1,39 @@
+html{
+    font-family: sans-serif;
+}
+
+h1{
+    color:green;
+    font-size: 225%;
+    text-align: center;
+}
+
+.subtitle{
+    background-color: orangered;
+    color:white;
+    width:100%;
+    text-align: center;
+}
+
+.text{
+    text-align: center;
+}
+
+.img-cat{
+    border: 3px solid black;
+    padding: 3px;
+    width:81%;
+}
+
+.img-cat img{
+    margin-left:15%;
+}
+
+.img-cat .description{
+    margin-left: 15%;
+    
+}
+
+.finaltext{
+    text-align: center;
+}
